@@ -1,1 +1,1 @@
-# ellomynameisschrodingerbugthisismyverycoolandawesomewebsitewhichhastherecordforthelongestwebsitename
+This website/page,utilizing GitHub Pages and the 100-character limit of GitHub Repos(over the 63 character limit of normal websites) now holds the record for the longest possible website ever uploaded to the web!
